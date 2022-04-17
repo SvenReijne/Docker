@@ -7,4 +7,3 @@ services:
       - "80:80"
 
 # Uitvoeren met commando terwijl je in het goede mapje zit: docker-compose up
-# https://github.com/docker/awesome-compose/
